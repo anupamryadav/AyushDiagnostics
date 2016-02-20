@@ -51,7 +51,7 @@ body{
 }
 .header-top {
   padding: 1.5em 0;
-  background: #fee200;
+  background: #00FEE3;
  }
 .logo{
 	float: left;
@@ -513,7 +513,7 @@ img.zoom-img {
 .footer-section{
 	padding:2em 0;
 	text-align:center;
-	background:#fee200;
+	background:#00FEE3;
 }
 .footer-bottom {
 	margin-top: 1em;
